@@ -4,3 +4,6 @@ obj/
 *.user
 *.suo
 .vs/
+
+## Agent workflow rules (local only)
+CLAUDE.md
